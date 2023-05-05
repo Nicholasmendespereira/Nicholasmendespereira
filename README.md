@@ -1,6 +1,6 @@
 ### Hi there 👋
-###<a href="https://www.instagram.com/USERNAME" alt="Instagram" target="_blank"></a>
-<p>Bom dia<p/>
+![Snake animation](https://github.com/Nicholasmendespereira/Nicholasmendespereira/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Nicholasmendespereira/Nicholasmendespereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
