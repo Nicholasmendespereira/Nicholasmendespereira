@@ -10,8 +10,7 @@
 </div>
   
   ##
- <div><img src="https://media.licdn.com/dms/image/D4D16AQGhohXafD7iIw/profile-displaybackgroundimage-shrink_350_1400/0/1674650327232?e=1688601600&v=beta&t=FleIkB0iMRZVjxBQKmh3VvD-3fL-R-_DLE5ebctMspI">
-<img width="100"  src="https://media.licdn.com/dms/image/C4E03AQGgxx2cJZejtw/profile-displayphoto-shrink_800_800/0/1626885892531?e=1688601600&v=beta&t=sCti1vQ9YiGUdC0uEs1IHmRn5b5XmgeeiW7hs-yeFYY"></div>
+ <div><img src="https://user-images.githubusercontent.com/98132580/236561087-d749f94f-a502-4e33-b94e-c38fef8f68ba.png"></div>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
